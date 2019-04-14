@@ -18,7 +18,7 @@ r1
 Z9 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/ALU.v|
 Z10 o-work work -O0
 Z11 n@a@l@u
-Z12 !s108 1555267232.150000
+Z12 !s108 1555269609.453000
 Z13 !s107 C:/Users/Akbar30Bill/Desktop/ALU.v|
 !i10b 1
 !s85 0
@@ -28,7 +28,7 @@ Z14 !s100 aKWThL>2o`oHIHO1473XA2
 Z15 IYK6J12LXPT`L:PHTE34FF1
 Z16 VCf[2j2CQ^ocgDZ]^]7eQA0
 R4
-Z17 w1555250609
+Z17 w1555269295
 Z18 8C:/Users/Akbar30Bill/Desktop/Controller.v
 Z19 FC:/Users/Akbar30Bill/Desktop/Controller.v
 L0 2
@@ -38,30 +38,30 @@ r1
 Z20 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/Controller.v|
 R10
 Z21 n@controller
-Z22 !s108 1555267232.011000
+Z22 !s108 1555269609.306000
 Z23 !s107 C:/Users/Akbar30Bill/Desktop/Controller.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vDataPath
-Z24 I[[m4XQGU^>IYL1Cb>KeX03
-Z25 V<2o=M7d:LQ_a`lo6]G9YP0
+Z24 !s100 YCWHf51m2EgKV`b4znZ5M1
+Z25 IE2KYg:kBgWOkQP[0cJd[j3
+Z26 VI:d<Gi^EDSQgSYiYn1UZg3
 R4
-Z26 w1555267182
-Z27 8C:/Users/Akbar30Bill/Desktop/DataPath.v
-Z28 FC:/Users/Akbar30Bill/Desktop/DataPath.v
+Z27 w1555269151
+Z28 8C:/Users/Akbar30Bill/Desktop/DataPath.v
+Z29 FC:/Users/Akbar30Bill/Desktop/DataPath.v
 L0 2
 R8
 r1
 31
-Z29 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/DataPath.v|
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/DataPath.v|
 R10
-Z30 n@data@path
-!i10b 1
-Z31 !s100 0]@N_Ek6n`ZhRJnZ>_okX3
-!s85 0
-Z32 !s108 1555267232.403000
+Z31 n@data@path
+Z32 !s108 1555269609.754000
 Z33 !s107 C:/Users/Akbar30Bill/Desktop/DataPath.v|
+!i10b 1
+!s85 0
 !s101 -O0
 vInstructionMemory
 Z34 !s100 H:8Bhb@H=Qj_z5j:OEPC13
@@ -78,86 +78,106 @@ r1
 Z40 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/InstructionMemory.v|
 R10
 Z41 n@instruction@memory
-Z42 !s108 1555267231.724000
+Z42 !s108 1555269609.034000
 Z43 !s107 C:/Users/Akbar30Bill/Desktop/InstructionMemory.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vinterface
+Z44 !s100 EMPm>ioScGCNaH713g4hI3
+Z45 I;Z8Ge7knd7KA7C`d3U`m;1
+Z46 Ve:FUHJ]457d_l`hgd6a[C2
+R4
+Z47 w1555268446
+Z48 8C:/Users/Akbar30Bill/Desktop/interface.v
+Z49 FC:/Users/Akbar30Bill/Desktop/interface.v
+L0 2
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/interface.v|
+R10
 !i10b 1
-!s100 WhA]Sj:NzGS]]@U?=;g]z3
-I2>F=AW?hGN?AlE=fVgUUf3
-Ve:FUHJ]457d_l`hgd6a[C2
-R4
-w1555267229
-8C:/Users/Akbar30Bill/Desktop/interface.v
-FC:/Users/Akbar30Bill/Desktop/interface.v
-L0 2
-R8
-r1
 !s85 0
-31
-!s108 1555267232.541000
-!s107 C:/Users/Akbar30Bill/Desktop/interface.v|
-!s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/interface.v|
+Z51 !s108 1555269609.930000
+Z52 !s107 C:/Users/Akbar30Bill/Desktop/interface.v|
 !s101 -O0
-R10
 vmemory
-Z44 !s100 FXJWk8L^icE[RaI?7mUFK0
-Z45 ICT9FJdeUn<zemeHmQhXhN1
-Z46 VhMKSKe>fi?O8lV5n5cZJ=0
+Z53 !s100 FXJWk8L^icE[RaI?7mUFK0
+Z54 ICT9FJdeUn<zemeHmQhXhN1
+Z55 VhMKSKe>fi?O8lV5n5cZJ=0
 R4
-Z47 w1555249185
-Z48 8C:/Users/Akbar30Bill/Desktop/Memory.v
-Z49 FC:/Users/Akbar30Bill/Desktop/Memory.v
+Z56 w1555249185
+Z57 8C:/Users/Akbar30Bill/Desktop/Memory.v
+Z58 FC:/Users/Akbar30Bill/Desktop/Memory.v
 L0 2
 R8
 r1
 31
-Z50 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/Memory.v|
+Z59 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/Memory.v|
 R10
-Z51 !s108 1555267232.282000
-Z52 !s107 C:/Users/Akbar30Bill/Desktop/Memory.v|
+Z60 !s108 1555269609.592000
+Z61 !s107 C:/Users/Akbar30Bill/Desktop/Memory.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vProgramCounter
-Z53 !s100 OY3kg=dIDb0]D>k[aUh_h1
-Z54 Ij4azbIj3K17[47]o=W<AL2
-Z55 V1XGIPH;fz2U3N6NYBknc40
+Z62 !s100 OY3kg=dIDb0]D>k[aUh_h1
+Z63 Ij4azbIj3K17[47]o=W<AL2
+Z64 V1XGIPH;fz2U3N6NYBknc40
 R4
-Z56 w1555241925
-Z57 8C:/Users/Akbar30Bill/Desktop/ProgramCounter.v
-Z58 FC:/Users/Akbar30Bill/Desktop/ProgramCounter.v
+Z65 w1555241925
+Z66 8C:/Users/Akbar30Bill/Desktop/ProgramCounter.v
+Z67 FC:/Users/Akbar30Bill/Desktop/ProgramCounter.v
 L0 2
 R8
 r1
 31
-Z59 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/ProgramCounter.v|
+Z68 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/ProgramCounter.v|
 R10
-Z60 n@program@counter
-Z61 !s108 1555267231.591000
-Z62 !s107 C:/Users/Akbar30Bill/Desktop/ProgramCounter.v|
+Z69 n@program@counter
+Z70 !s108 1555269608.887000
+Z71 !s107 C:/Users/Akbar30Bill/Desktop/ProgramCounter.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vRegisterFile
-Z63 !s100 K=;e0N0gffm4MHdJD6>A`2
-Z64 IoVJiD4Pf>c7fjhh1d2;f32
-Z65 VgzgZQCg@YTe7@RIjWUoNL3
+Z72 !s100 K=;e0N0gffm4MHdJD6>A`2
+Z73 IoVJiD4Pf>c7fjhh1d2;f32
+Z74 VgzgZQCg@YTe7@RIjWUoNL3
 R4
-Z66 w1555244851
-Z67 8C:/Users/Akbar30Bill/Desktop/Registers.v
-Z68 FC:/Users/Akbar30Bill/Desktop/Registers.v
+Z75 w1555244851
+Z76 8C:/Users/Akbar30Bill/Desktop/Registers.v
+Z77 FC:/Users/Akbar30Bill/Desktop/Registers.v
 L0 2
 R8
 r1
 31
-Z69 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/Registers.v|
+Z78 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/Registers.v|
 R10
-Z70 n@register@file
-Z71 !s108 1555267231.863000
-Z72 !s107 C:/Users/Akbar30Bill/Desktop/Registers.v|
+Z79 n@register@file
+Z80 !s108 1555269609.163000
+Z81 !s107 C:/Users/Akbar30Bill/Desktop/Registers.v|
 !i10b 1
 !s85 0
 !s101 -O0
+vtestBench
+!i10b 1
+!s100 0F]ka`gNABX1?QG?UzHkm1
+Iz2aJaHJcQObXGoE_CjH<Q3
+Z82 V>9mR`RJXeY_boH6l7WC2@1
+R4
+w1555269602
+Z83 8C:/Users/Akbar30Bill/Desktop/TB.v
+Z84 FC:/Users/Akbar30Bill/Desktop/TB.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1555269610.179000
+!s107 C:/Users/Akbar30Bill/Desktop/TB.v|
+Z85 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/TB.v|
+!s101 -O0
+R10
+Z86 ntest@bench

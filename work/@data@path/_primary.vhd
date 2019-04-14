@@ -5,6 +5,7 @@ entity DataPath is
         clk             : in     vl_logic;
         rst             : in     vl_logic;
         RegisterWriteDataEnable: in     vl_logic;
+        RegisterWriteDataDestination: in     vl_logic;
         LoadPcEnable    : in     vl_logic;
         SelectBranchPc  : in     vl_logic;
         SelectJumpPc    : in     vl_logic;

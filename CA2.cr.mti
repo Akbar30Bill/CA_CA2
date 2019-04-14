@@ -19,6 +19,13 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	RegisterFile
 
+} {} {}} C:/Users/Akbar30Bill/Desktop/interface.v {1 {vlog -work work C:/Users/Akbar30Bill/Desktop/interface.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module interface
+
+Top level modules:
+	interface
+
 } {} {}} C:/Users/Akbar30Bill/Desktop/Memory.v {1 {vlog -work work C:/Users/Akbar30Bill/Desktop/Memory.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module memory

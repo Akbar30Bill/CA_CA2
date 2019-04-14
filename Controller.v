@@ -138,4 +138,3 @@ module Controller(clk,rst,Instruction,RegisterWriteDataEnable,LoadPcEnable,Selec
     endcase
   end
 endmodule
-// ehsan , alizak , akbar , anahid , negin , mahya , erfan , sina , rasta , alik , prisa , majed , spehr

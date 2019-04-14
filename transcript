@@ -49,3 +49,122 @@
 # Compile of DataPath.v was successful.
 # Compile of interface.v was successful.
 # 8 compiles, 0 failed with no errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Registers.v was successful.
+# Compile of Controller.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of DataPath.v was successful.
+# Compile of interface.v was successful.
+# Compile of TB.v failed with 2 errors.
+# 9 compiles, 1 failed with 2 errors. 
+project open C:/Users/Akbar30Bill/Desktop/CA2.mpf
+project open C:/Users/Akbar30Bill/Desktop/CA2.mpf
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Registers.v was successful.
+# Compile of Controller.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of DataPath.v was successful.
+# Compile of interface.v was successful.
+# Compile of TB.v failed with 2 errors.
+# 9 compiles, 1 failed with 2 errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Registers.v was successful.
+# Compile of Controller.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of DataPath.v was successful.
+# Compile of interface.v was successful.
+# Compile of TB.v was successful.
+# 9 compiles, 0 failed with no errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Registers.v was successful.
+# Compile of Controller.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of DataPath.v was successful.
+# Compile of interface.v was successful.
+# Compile of TB.v was successful.
+# 9 compiles, 0 failed with no errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Registers.v was successful.
+# Compile of Controller.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of DataPath.v was successful.
+# Compile of interface.v was successful.
+# Compile of TB.v was successful.
+# 9 compiles, 0 failed with no errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Registers.v was successful.
+# Compile of Controller.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of DataPath.v was successful.
+# Compile of interface.v was successful.
+# Compile of TB.v was successful.
+# 9 compiles, 0 failed with no errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Registers.v was successful.
+# Compile of Controller.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of DataPath.v failed with 1 errors.
+# Compile of interface.v was successful.
+# Compile of TB.v was successful.
+# 9 compiles, 1 failed with 1 error. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Registers.v was successful.
+# Compile of Controller.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of DataPath.v was successful.
+# Compile of interface.v was successful.
+# Compile of TB.v was successful.
+# 9 compiles, 0 failed with no errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Registers.v was successful.
+# Compile of Controller.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of DataPath.v was successful.
+# Compile of interface.v was successful.
+# Compile of TB.v was successful.
+# 9 compiles, 0 failed with no errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Registers.v was successful.
+# Compile of Controller.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of DataPath.v was successful.
+# Compile of interface.v was successful.
+# Compile of TB.v was successful.
+# 9 compiles, 0 failed with no errors. 
+vsim -gui work.testBench
+# vsim -gui work.testBench 
+# Loading work.testBench
+# Loading work.interface
+# Loading work.DataPath
+# Loading work.ALU
+# Loading work.RegisterFile
+# Loading work.memory
+# ** Error: (vsim-3033) C:/Users/Akbar30Bill/Desktop/DataPath.v(19): Instantiation of 'ALUControler' failed. The design unit was not found.
+# 
+#         Region: /testBench/in/dp
+#         Searched libraries:
+#             C:/Users/Akbar30Bill/Desktop/work
+# Loading work.InstructionMemory
+# Loading work.ProgramCounter
+# Loading work.Controller
+# Error loading design
