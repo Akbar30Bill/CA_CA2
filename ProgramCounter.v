@@ -11,5 +11,5 @@ output pc;
       pc_reg <= pc_reg + 4;
     end
   end
-  assign pc <= pc_reg;
+  assign pc = pc_reg;
 endmodule //
