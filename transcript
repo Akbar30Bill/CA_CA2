@@ -1,6 +1,20 @@
-# Compile of ProgramCounter.v failed with 1 errors.
-# Compile of InstructionMemory.v failed with 1 errors.
-# 2 compiles, 2 failed with 2 errors. 
 # Compile of ProgramCounter.v was successful.
 # Compile of InstructionMemory.v failed with 1 errors.
-# 2 compiles, 1 failed with 1 error. 
+# Compile of Registers.v failed with 1 errors.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v failed with 1 errors.
+# Compile of Registers.v failed with 1 errors.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v failed with 1 errors.
+# Compile of Registers.v failed with 1 errors.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v failed with 1 errors.
+# Compile of Registers.v failed with 2 errors.
+# 3 compiles, 2 failed with 3 errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v failed with 1 errors.
+# Compile of Registers.v failed with 1 errors.
+# 3 compiles, 2 failed with 2 errors. 
