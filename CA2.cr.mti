@@ -1,6 +1,15 @@
-C:/Users/Akbar30Bill/Desktop/InstructionMemory.v {0 {vlog -work work C:/Users/Akbar30Bill/Desktop/InstructionMemory.v
+C:/Users/Akbar30Bill/Desktop/ProgramCounter.v {1 {vlog -work work C:/Users/Akbar30Bill/Desktop/ProgramCounter.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}} C:/Users/Akbar30Bill/Desktop/InstructionMemory.v {1 {vlog -work work C:/Users/Akbar30Bill/Desktop/InstructionMemory.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module InstructionMemory
-** Error: C:/Users/Akbar30Bill/Desktop/InstructionMemory.v(5): The generate case condition must be a constant expression.
 
-} {4.0 5.0} {}}
+Top level modules:
+	InstructionMemory
+
+} {} {}}

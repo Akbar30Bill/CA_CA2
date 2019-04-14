@@ -3,23 +3,63 @@ K3
 13
 cModel Technology
 Z0 dC:\Program Files (x86)\altera
-vProgramCounter
-!i10b 1
-Z1 !s100 V;<lNR>`N;BJ9am>doiI60
-Z2 IMAVSgBAf0OjiACkeoWQo;1
-Z3 VdDFflaTQP[GEU<7=U<28D2
+vInstructionMemory
+Z1 !s100 H:8Bhb@H=Qj_z5j:OEPC13
+Z2 I7VkHXnS>:?P^]=08l?>eo1
+Z3 Vf;iIE9a;KZNAPbEd]JeeX2
 Z4 dC:\Users\Akbar30Bill\Desktop
-Z5 w1555211031
-Z6 8C:/Users/Akbar30Bill/Desktop/ProgramCounter.v
-Z7 FC:/Users/Akbar30Bill/Desktop/ProgramCounter.v
+Z5 w1555234053
+Z6 8C:/Users/Akbar30Bill/Desktop/InstructionMemory.v
+Z7 FC:/Users/Akbar30Bill/Desktop/InstructionMemory.v
 L0 2
 Z8 OV;L;10.1d;51
 r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/InstructionMemory.v|
+Z10 o-work work -O0
+Z11 n@instruction@memory
+!i10b 1
+!s85 0
+Z12 !s108 1555234469.979000
+Z13 !s107 C:/Users/Akbar30Bill/Desktop/InstructionMemory.v|
+!s101 -O0
+vProgramCounter
+Z14 !s100 V;<lNR>`N;BJ9am>doiI60
+Z15 IMAVSgBAf0OjiACkeoWQo;1
+Z16 VdDFflaTQP[GEU<7=U<28D2
+R4
+Z17 w1555211031
+Z18 8C:/Users/Akbar30Bill/Desktop/ProgramCounter.v
+Z19 FC:/Users/Akbar30Bill/Desktop/ProgramCounter.v
+L0 2
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/ProgramCounter.v|
+R10
+Z21 n@program@counter
+Z22 !s108 1555234469.862000
+Z23 !s107 C:/Users/Akbar30Bill/Desktop/ProgramCounter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegisterFile
+!i10b 1
+!s100 U<EE4=W^X8F7^CTKz?Y[Y1
+I@YX>jX[ihbbfLGTHPjCM`2
+Z24 V5l4Tjj8nJ8>m5m]gZl=E`0
+R4
+w1555234412
+Z25 8C:/Users/Akbar30Bill/Desktop/Registers.v
+Z26 FC:/Users/Akbar30Bill/Desktop/Registers.v
+L0 2
+R8
+r1
 !s85 0
 31
-!s108 1555229716.207000
-!s107 C:/Users/Akbar30Bill/Desktop/ProgramCounter.v|
-Z9 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/ProgramCounter.v|
+!s108 1555234470.118000
+!s107 C:/Users/Akbar30Bill/Desktop/Registers.v|
+Z27 !s90 -reportprogress|300|-work|work|C:/Users/Akbar30Bill/Desktop/Registers.v|
 !s101 -O0
-Z10 o-work work -O0
-Z11 n@program@counter
+R10
+Z28 n@register@file

@@ -18,3 +18,47 @@
 # Compile of InstructionMemory.v failed with 1 errors.
 # Compile of Registers.v failed with 1 errors.
 # 3 compiles, 2 failed with 2 errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v failed with 1 errors.
+# Compile of Registers.v failed with 2 errors.
+# 3 compiles, 2 failed with 3 errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v failed with 1 errors.
+# Compile of Registers.v failed with 1 errors.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v failed with 1 errors.
+# Compile of Registers.v failed with 1 errors.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v failed with 1 errors.
+# Compile of Registers.v failed with 1 errors.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v failed with 1 errors.
+# Compile of Registers.v failed with 1 errors.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Registers.v failed with 1 errors.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Registers.v failed with 32 errors.
+# 3 compiles, 1 failed with 32 errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Registers.v failed with 32 errors.
+# 3 compiles, 1 failed with 32 errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Registers.v was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Registers.v was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of ProgramCounter.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Registers.v was successful.
+# 3 compiles, 0 failed with no errors. 
