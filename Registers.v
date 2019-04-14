@@ -1,9 +1,9 @@
 `timescale 1ns / 1ns
 module RegisterFile(clk,rst,windowIn,WriteDataEnable,ReadReg1,ReadReg2,WriteReg,WriteData,ReadData1,ReadData2);
   input             clk,rst,WriteDataEnable;
-  input      [1 :0]  ReadReg1,ReadReg2,WriteReg;
+  input      [1 :0] ReadReg1,ReadReg2,WriteReg;
   input      [15:0] WriteData;
-  input      [2 :0]  windowIn;
+  input      [1 :0] windowIn;
   output reg [15:0] ReadData1,ReadData2;
   reg        [15:0] r0;
   reg        [15:0] r1;
@@ -26,7 +26,7 @@ module RegisterFile(clk,rst,windowIn,WriteDataEnable,ReadReg1,ReadReg2,WriteReg,
       r6        <= 16'b0;
       r7        <= 16'b0;
       r8        <= 16'b0;
-      window    <= 2'b0;
+      window    <=  2'b0;
       ReadData1 <= 16'b0;
       ReadData2 <= 16'b0;
     end

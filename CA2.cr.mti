@@ -1,9 +1,44 @@
-C:/Users/Akbar30Bill/Desktop/ProgramCounter.v {1 {vlog -work work C:/Users/Akbar30Bill/Desktop/ProgramCounter.v
+C:/Users/Akbar30Bill/Desktop/Controller.v {1 {vlog -work work C:/Users/Akbar30Bill/Desktop/Controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/Akbar30Bill/Desktop/ProgramCounter.v {1 {vlog -work work C:/Users/Akbar30Bill/Desktop/ProgramCounter.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module ProgramCounter
 
 Top level modules:
 	ProgramCounter
+
+} {} {}} C:/Users/Akbar30Bill/Desktop/Registers.v {1 {vlog -work work C:/Users/Akbar30Bill/Desktop/Registers.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} C:/Users/Akbar30Bill/Desktop/Memory.v {1 {vlog -work work C:/Users/Akbar30Bill/Desktop/Memory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/Users/Akbar30Bill/Desktop/ALU.v {1 {vlog -work work C:/Users/Akbar30Bill/Desktop/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/Akbar30Bill/Desktop/DataPath.v {1 {vlog -work work C:/Users/Akbar30Bill/Desktop/DataPath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
 
 } {} {}} C:/Users/Akbar30Bill/Desktop/InstructionMemory.v {1 {vlog -work work C:/Users/Akbar30Bill/Desktop/InstructionMemory.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
